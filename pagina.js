@@ -1,0 +1,1 @@
+alert("Bienvenido al colegio Santa rita de Cassia");
